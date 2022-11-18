@@ -5,7 +5,8 @@
   "scripts": {
     "compile": "truffle compile", 
     "migrate": "truffle migrate", 
-    "migrate:goerli": "npm run migrate -- --network goerli"
+    "migrate:goerli": "npm run migrate -- --network goerli", 
+    "test": "truffle test ./test/Token.spec.js --network goerli"
   },
   "keywords": [],
   "author": "",

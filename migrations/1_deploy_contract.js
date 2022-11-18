@@ -13,6 +13,7 @@ module.exports = async function(deployer) {
         TOKEN_NAME, 
         TOKEN_SYMBOL, 
         TOKEN_TOTAL_SUPPLY, 
-        TOKEN_DECIMALS
+        TOKEN_DECIMALS, 
+        { overwrite: false }
     );
 }
