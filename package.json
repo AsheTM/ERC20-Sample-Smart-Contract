@@ -8,8 +8,7 @@
     "migrate:goerli": "npm run migrate -- --network goerli", 
     "test": "truffle test ./test/Token.spec.js --network goerli"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Haitham DAWOUD",
   "license": "ISC",
   "devDependencies": {
     "@truffle/hdwallet-provider": "^2.1.1",
