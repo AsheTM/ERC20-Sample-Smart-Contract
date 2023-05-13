@@ -25,7 +25,7 @@ Then execute:
 
 ```bash
 #!/bin/bash
-npm run migrate:goerli
+pnpm run migrate:goerli
 ```
 
 ## Tests
@@ -34,5 +34,5 @@ To run tests, execute the following:
 
 ```bash
 #!/bin/bash
-npm run test
+pnpm run test
 ```
