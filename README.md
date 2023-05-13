@@ -1,3 +1,13 @@
+**⛔️ DEPRECATED ⛔️**
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+Merged with [AsheTM/sample-erc20](https://github.com/AsheTM/sample-erc20) repository.
+
+<br>
+
+---
+
 # ERC20 Sample Smart Contract
 
 Sample of how to create a ERC20 token.
