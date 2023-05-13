@@ -1,11 +1,11 @@
 {
   "name": "sample-erc20-smart-contract",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "truffle-config.js",
   "scripts": {
-    "compile": "truffle compile", 
-    "migrate": "truffle migrate", 
-    "migrate:goerli": "npm run migrate -- --network goerli", 
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "migrate:goerli": "npm run migrate -- --network goerli",
     "test": "truffle test ./test/Token.spec.js --network goerli"
   },
   "author": "Haitham DAWOUD",
