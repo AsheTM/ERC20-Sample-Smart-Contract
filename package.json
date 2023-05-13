@@ -1,5 +1,5 @@
 {
-  "name": "erc20-sample-smart-contract",
+  "name": "sample-erc20-smart-contract",
   "version": "1.0.0",
   "main": "truffle-config.js",
   "scripts": {
